@@ -6,6 +6,8 @@ Nome: Victor Ferracini- 32273134
 
 Nome: Yuri- 32230877
 
+**Evidências**
+
 ![imagem_so_1](https://github.com/davimicale/aula3/assets/62074503/5ae51b51-ae0c-42a1-a49b-a021eeaa515a)
 ![imagem_so_2](https://github.com/davimicale/aula3/assets/62074503/102be1cb-218c-4308-a225-85e0dc5b1106)
 ![imagem_so_3](https://github.com/davimicale/aula3/assets/62074503/0ce53e88-9eb2-4790-b1df-db6579534ed9)
